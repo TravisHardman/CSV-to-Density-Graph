@@ -1,0 +1,17 @@
+This program creates a density graph over multiple parameters and labels them.
+
+To run the program:
+1. Add input.csv to the application directory (see format instructions below)
+2. Adjust configuration settings in config.txt
+3. Run graph.exe
+4. output.png will be created in the application directory
+
+config.yml format:
+key: value
+key: value
+key: value
+
+input.csv format:
+	Total	Label	Label	Label
+X-Val	##	##	##	##
+X-Val	##	##	##	##
