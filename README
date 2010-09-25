@@ -1,5 +1,9 @@
 This program creates a density graph over multiple parameters and labels them.
 
+Dependencies:
+Processing 1.2.1
+Java Development Kit 6.21
+
 To run the program:
 1. Add input.csv to the application directory (see format instructions below)
 2. Adjust configuration settings in config.txt
